@@ -46,7 +46,7 @@ DB_SERVER=localhost\SQLEXPRESS
 DB_NAME=YourDatabaseName
 DB_USER=your_username
 DB_PASSWORD=your_password
-EXPORTS_FOLDER=C:\Users\sai hemanth\Desktop\dev\MongoDB_Exports
+EXPORTS_FOLDER=Path_To_Folder
 ```
 
 ---
